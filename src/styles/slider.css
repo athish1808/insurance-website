@@ -1,0 +1,25 @@
+/* h3{
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    color: black;
+    
+} */
+.card{
+    margin-top: 90px;
+    float: left;
+    width: 20%;
+}
+.row{
+    background-color:  rgba(156, 156, 156, 0.46);
+}
+.card3{
+    float: right;
+    width: 20%;
+    margin-top: 90px;
+}
+.card2{
+    float: auto;
+    margin-top: 90px;
+    width: 60%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}

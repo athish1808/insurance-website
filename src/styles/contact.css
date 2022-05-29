@@ -1,0 +1,23 @@
+.register{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 100px; 
+    font-size: medium;
+}
+.container{
+    position: absolute;
+    margin-top: 150px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    background-color: khaki;
+    height: 700px;
+    width: 450px;
+    border-radius: 15px;
+    font-family: fantasy;
+}
+.btn{
+    background-color: azure;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    border-radius: 50px;
+}
